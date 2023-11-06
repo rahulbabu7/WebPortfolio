@@ -41,6 +41,7 @@ nav ul li a{
     
     font-weight: bold;
 }
+
 main{
     display: flex;
     justify-content: center;
