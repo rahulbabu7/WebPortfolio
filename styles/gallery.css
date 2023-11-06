@@ -41,3 +41,18 @@ nav ul li a{
     
     font-weight: bold;
 }
+
+
+section img{
+    width:25%;
+    height: 25%;
+    padding: 60px;
+    
+}
+.animeone{
+    height: 700px;
+
+}
+.animetwo{
+    height: 700px;
+}
