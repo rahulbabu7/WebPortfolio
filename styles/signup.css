@@ -41,7 +41,38 @@ nav ul li a{
     font-weight: bold;
 }
 
- .signupForm{
+main{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row;    */
+    /* width: 500px; */
+    margin: auto;
+    
+}
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.formElm{
+    margin-bottom: 10px;
+    padding: 30px;
+    font-size: 16px;
+}
+
+.submit{
+    padding: 30px;
+}
+
+.signupForm{
     border: 2px solid #9a1d1d; /* Set the desired border color (#FF0000 is red) and border width */
     /* padding: 20px; */
+}
+.dob{
+    padding-right: 100px;
+
+}
+button{
+    padding: 20px;
+    margin-top: 20px;
 }
